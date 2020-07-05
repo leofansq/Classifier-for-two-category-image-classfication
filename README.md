@@ -1,12 +1,12 @@
-# Classifier for Two-category Image Classfication #
+# Image Classfication Based on CART & C4.5#
 
 ----------
 
 ## Task ##
 Training a classifier for two-category image classification problem
 ## Data ##
-- Training data (will be sent to the WeChat group)
-- Test data (provided on the final presentation)
+- Training data
+- Test data
 ## Metrics ##
 - Accuracy, training time
 ## Methods ##
